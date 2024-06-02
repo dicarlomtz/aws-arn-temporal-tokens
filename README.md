@@ -10,7 +10,7 @@ Script to get AWS STS Temporal Session Tokens. MFA is not enforced, but optional
 - If you are using MFA, please check the arn assigned to your device.
 
 ## How to use
-execute: `python3 aws-arn-temporal-tokens.py`
+execute: `python3 aws-sts-temporal-tokens.py`
 
 You can also add arguments:
 
