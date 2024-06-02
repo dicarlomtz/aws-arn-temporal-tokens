@@ -1,4 +1,4 @@
-# aws-arn-temporal-tokens
+# aws-sts-temporal-tokens
 
 Script to get AWS STS Temporal Session Tokens. MFA is not enforced, but optional.
 
