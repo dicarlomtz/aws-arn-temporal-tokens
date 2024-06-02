@@ -25,7 +25,8 @@ If you want to work with different profiles and avoid having to specify arn devi
 
 The structure should be the following: 
 
-```{
+```
+   {
         "default": [
                 {
                         "arn_device": "arn:aws:iam::<account>:mfa/<name>"
@@ -41,4 +42,5 @@ The structure should be the following:
                         "arn_device": "arn:aws:iam::<account>:mfa/<name>"
                 }
         ]
-}```
+  }
+```
